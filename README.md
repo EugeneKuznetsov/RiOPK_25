@@ -15,13 +15,14 @@
 	1. [C4-модель](#C4-модель)
   
    **Контейнерный уровень диаграммы C4**
-	<img width="1161" height="1632" alt="image" src="https://github.com/user-attachments/assets/0a199a73-2d87-469c-8a2a-b2736ae32ae6" />
+	<img width="1063" height="1439" alt="1" src="https://github.com/user-attachments/assets/ff88a6b4-280b-4f2f-ac53-a0741818dcc0" />
 
  	**Компонентный уровень диаграммы C4**
-	<img width="2291" height="1622" alt="image" src="https://github.com/user-attachments/assets/5663f5bb-29f1-4a3b-9770-5c2e8d3ce5d5" />
+	<img width="2530" height="2127" alt="2" src="https://github.com/user-attachments/assets/8de30209-9a95-4227-b3ce-a3cfaaf67d88" />
+
 
 	**Кодовый уровень диаграммы C4**
-	<img width="1161" height="812" alt="image" src="https://github.com/user-attachments/assets/42f455bb-7a15-4d5e-bcbf-e2532a870650" />
+	<img width="2554" height="797" alt="3" src="https://github.com/user-attachments/assets/907e7dff-b40d-46dd-b823-4f99d7c8736c" />
 	
 	3. [Схема данных](#Схема_данных)
 3. [Функциональные возможности](#Функциональные_возможности)
