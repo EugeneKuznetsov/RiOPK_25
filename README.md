@@ -52,13 +52,10 @@
 ### Схема данных
 
 **Схема данных пользователей и общественных заведений (users)**
-<img width="974" height="717" alt="image" src="https://github.com/user-attachments/assets/019ce0f3-1b53-41a1-9d86-0d4bd6720e83" />
 
 **Схема данных медиа-контента (media)**
-<img width="974" height="523" alt="image" src="https://github.com/user-attachments/assets/2657dc65-962a-4c9f-b26b-e80c18b70fd4" />
 
 **Схема данных предпочтений (preferences)**
-<img width="974" height="792" alt="image" src="https://github.com/user-attachments/assets/cdb496cc-3f31-4b63-bcfc-f8c0e52700e8" />
 
 ---
 
@@ -73,13 +70,10 @@
 Описание переходов между части ПС для всех ролей из диаграммы ВИ (название ролей должны совпадать с тем, что указано на c4-модели и диаграмме вариантов использования)
 
 **User-flow для слушателя**
-<img width="1781" height="1791" alt="image" src="https://github.com/user-attachments/assets/1b028ae8-3c73-4144-a501-8b7faae86dc9" />
 
 **User-flow для музыкального куратора**
-<img width="2332" height="1581" alt="image" src="https://github.com/user-attachments/assets/947e25bf-4923-40ba-841a-7bf989dd1e0a" />
 
 **User-flow для системного администратора**
-<img width="1312" height="1422" alt="image" src="https://github.com/user-attachments/assets/ad4610ed-7b1b-49db-bbff-8ec21bdf77cc" />
 
 ---
 
