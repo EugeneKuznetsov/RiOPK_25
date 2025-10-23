@@ -77,6 +77,7 @@ User-flow для юриста
 
 User-flow для управляющего
 <img width="2170" height="1539" alt="user-flow управляющий" src="https://github.com/user-attachments/assets/4feed144-b778-4638-a703-d6c63dacab3d" />
+
 ---
 
 ## **Детали реализации**
