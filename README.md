@@ -69,9 +69,14 @@
 
 Описание переходов между части ПС для всех ролей из диаграммы ВИ (название ролей должны совпадать с тем, что указано на c4-модели и диаграмме вариантов использования)
 
-### User-flow для менеджера
+User-flow для менеджера
 <img width="2020" height="1526" alt="user-flow менеджер" src="https://github.com/user-attachments/assets/e2d174c3-a084-49a1-8fd7-c644829f6ae3" />
 
+User-flow для юриста
+<img width="2170" height="1527" alt="user-flow юрист" src="https://github.com/user-attachments/assets/3547b395-2d90-4443-98a5-dceac8b575aa" />
+
+User-flow для управляющего
+<img width="2170" height="1539" alt="user-flow управляющий" src="https://github.com/user-attachments/assets/4feed144-b778-4638-a703-d6c63dacab3d" />
 ---
 
 ## **Детали реализации**
