@@ -51,8 +51,7 @@
 
 ### Схема данных
 
-<img width="1451" height="898" alt="Логическая модель БД" src="https://github.com/user-attachments/assets/fbb956b0-256e-4c0e-9d29-8715617edbe7" />
-
+<img width="626" height="405" alt="Физическая модель БД" src="https://github.com/user-attachments/assets/3f5a7b00-7068-40bc-a895-a9c42a6f3363" />
 
 ---
 
